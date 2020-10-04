@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SR_v04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/etc/SR_v04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
